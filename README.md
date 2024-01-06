@@ -50,7 +50,7 @@ Première étape:
 
     -Test
 
-    <img width="866" alt="3" src="https://github.com/Moujoudrana/Atelier6_5JEE/assets/93864104/d67cc544-ef1d-40b6-90bc-1b9983ee1048">
+<img width="866" alt="3" src="https://github.com/Moujoudrana/Atelier6_5JEE/assets/93864104/d67cc544-ef1d-40b6-90bc-1b9983ee1048">
 
 Deuxième étape:
 
@@ -58,7 +58,7 @@ Deuxième étape:
 
     -Test
 
-    <img width="960" alt="4" src="https://github.com/Moujoudrana/Atelier6_5JEE/assets/93864104/f1faba5c-0af3-4caa-84ff-a7423030a991">
+<img width="960" alt="4" src="https://github.com/Moujoudrana/Atelier6_5JEE/assets/93864104/f1faba5c-0af3-4caa-84ff-a7423030a991">
 
 Troisième étape:
 
@@ -66,7 +66,7 @@ Troisième étape:
 
     -Test
 
-    <img width="750" alt="5" src="https://github.com/Moujoudrana/Atelier6_5JEE/assets/93864104/31a4fcc6-6afc-4c6a-b234-5c48029966f3">
+<img width="750" alt="5" src="https://github.com/Moujoudrana/Atelier6_5JEE/assets/93864104/31a4fcc6-6afc-4c6a-b234-5c48029966f3">
 
 Quatrième étape:
 
@@ -74,7 +74,7 @@ Quatrième étape:
 
     -Test
 
-    <img width="955" alt="6" src="https://github.com/Moujoudrana/Atelier6_5JEE/assets/93864104/8e373506-775e-405b-af60-b43a239c3a13">
+<img width="955" alt="6" src="https://github.com/Moujoudrana/Atelier6_5JEE/assets/93864104/8e373506-775e-405b-af60-b43a239c3a13">
 
 Cinquième étape:
 
@@ -82,7 +82,7 @@ Cinquième étape:
 
     -Test
 
-    <img width="951" alt="8" src="https://github.com/Moujoudrana/Atelier6_5JEE/assets/93864104/d5701494-924b-4694-8e89-874f81d1f8fb">
+<img width="951" alt="8" src="https://github.com/Moujoudrana/Atelier6_5JEE/assets/93864104/d5701494-924b-4694-8e89-874f81d1f8fb">
 
 Sixième étape:
 
